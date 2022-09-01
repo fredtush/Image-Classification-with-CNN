@@ -35,10 +35,9 @@ In order to preprocess the images, use of Keras' ImageDataGenerator to rescale t
 
 The algorithm will be considered a success if the predictions made by it have a:
 
-1. Precision above 92%
-2. Recall above 95%
-3. Accuracy of 90% - 96%
-4. The task is to build a model that can classify whether a given patient has pneumonia given their chest x-ray image.
+1. Recall above 95%
+2. Accuracy of 90% - 96%
+The task is to build a model that can classify whether a given patient has pneumonia given their chest x-ray image.
 
 Since this is an Image Classification problem, Deep Learning is the ideal solving method.
 
@@ -77,7 +76,7 @@ The scores can be visualized as below:
 
 ## Model Conclusion and Recommendation
 
-The sensitivity of detecting pneumonia by emergency medicine specialists and radiologists according to this paper is 83%, therefore:
+The sensitivity of detecting pneumonia by emergency medicine specialists and radiologists <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6377225/#:~:text=Sensitivity%20of%20plain%20chest%20radiography,radiation%20(9%2C%2010).">this paper</a> is 83%, therefore:
 
 Given that the model has 98% sensitivity, interpretation of chest x-rays using this Convolutional Algorithm might help in improving the diagnostic accuracy of pneumonia.
 The algorithm is fast (36s) hence will increase efficiency considering the current understaffing in the Hospital.
