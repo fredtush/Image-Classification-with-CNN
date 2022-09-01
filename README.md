@@ -1,5 +1,6 @@
-# Image-Classification-with-CNN
+# Chest-X-ray-Image-Classification-with-CNN
 
+![hello](https://github.com/fredtush/dsc-text-classification-lab/blob/master/images/pneumonia.png)
 
 # Navigation
 
