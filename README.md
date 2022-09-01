@@ -1,6 +1,5 @@
 # Image-Classification-with-CNN
 
-![hello](https://github.com/tiaplagata/dsc-phase-4-project/blob/master/Images/Title%20Slide.png?raw=true)
 
 # Navigation
 
@@ -12,7 +11,7 @@
 # Important Links
 
 * [Link to Data](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-* [Slideshow Presentation](https://github.com/tiaplagata/dsc-phase-4-project/blob/master/Phase%204%20Ex%20Summary.pdf)
+* [Slideshow Presentation]()
 * [Non-Technical Video Presentation]
 * [Jupyter Notebook Full Modeling Process](https://github.com/fredtush/Image-Classification-with-CNN/blob/main/Image_Classification_with_Deep_Learning.ipynb)
 
