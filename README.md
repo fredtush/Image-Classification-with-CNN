@@ -14,7 +14,7 @@
 * [Link to Data](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 * [Slideshow Presentation]()
 * [Non-Technical Video Presentation]
-* [Jupyter Notebook Full Modeling Process](https://github.com/fredtush/Image-Classification-with-CNN/blob/main/Image_Classification_with_Deep_Learning.ipynb)
+* [Colab Notebook Full Modeling Process](https://github.com/fredtush/Image-Classification-with-CNN/blob/main/Image_Classification_with_Deep_Learning.ipynb)
 
 
 # Project Overview
@@ -35,8 +35,8 @@ In order to preprocess the images, use of Keras' ImageDataGenerator to rescale t
 
 The algorithm will be considered a success if the predictions made by it have a:
 
-1. Recall above 95%
-2. Accuracy of 90% - 96%
+Recall above 95%
+Accuracy of 90% - 96%
 The task is to build a model that can classify whether a given patient has pneumonia given their chest x-ray image.
 
 Since this is an Image Classification problem, Deep Learning is the ideal solving method.
